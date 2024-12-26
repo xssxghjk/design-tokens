@@ -7,8 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Enes Findik",
+  "repository": "https://github.com/xssxghjk/my-style-dictionary",
+  "license": "MIT",
   "dependencies": {
     "style-dictionary": "^4.3.0"
   }
