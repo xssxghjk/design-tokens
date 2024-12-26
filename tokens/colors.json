@@ -1,39 +1,22 @@
 {
-  "colors": {
-    "$type": "color",
-    "black": {
-      "$value": "#000000"
+  "color": {
+    "background": {
+      "page": {
+        "$value": "#1E293B"
+      },
+      "card": {
+        "$value": "#CBD5E1"
+      }
     },
-    "white": {
-      "$value": "#ffffff"
-    },
-    "orange": {
-      "100": {
-        "$value": "#fffaf0"
+    "text": {
+      "primary": {
+        "$value": "#CBD5E1"
       },
-      "200": {
-        "$value": "#feebc8"
+      "secondary": {
+        "$value": "#94A3B8"
       },
-      "300": {
-        "$value": "#fbd38d"
-      },
-      "400": {
-        "$value": "#f6ad55"
-      },
-      "500": {
-        "$value": "#ed8936"
-      },
-      "600": {
-        "$value": "#dd6b20"
-      },
-      "700": {
-        "$value": "#c05621"
-      },
-      "800": {
-        "$value": "#9c4221"
-      },
-      "900": {
-        "$value": "#7b341e"
+      "highlight": {
+        "$value": "#D946EF"
       }
     }
   }
