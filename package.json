@@ -8,7 +8,10 @@
   },
   "keywords": [],
   "author": "Enes Findik",
-  "repository": "https://github.com/xssxghjk/my-style-dictionary",
+  "repository": {
+    "type": "git",
+    "directory": "https://github.com/xssxghjk/my-style-dictionary.git"
+  },
   "license": "MIT",
   "dependencies": {
     "style-dictionary": "^4.3.0"
