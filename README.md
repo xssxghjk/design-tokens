@@ -1,15 +1,9 @@
-# Basic Style Dictionary
+# My Style Dictionary
 
-This example code is bare-bones to show you what this framework can do. If you have the style-dictionary module installed globally, you can `cd` into this directory and run:
+This is my personal Style Dictionary for my design system. It is a collection of reusable design tokens that can be used in various platforms and languages.
 
+## Usage
 ```bash
-npx style-dictionary build
+npm install
+npm run build
 ```
-
-Otherwise, install Style Dictionary locally for this project first, `cd` into this directory and run:
-
-```bash
-npm init -y && npm install style-dictionary
-```
-
-and then run the above command.
