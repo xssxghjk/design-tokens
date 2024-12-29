@@ -2,7 +2,7 @@
   "name": "@xssxghjk/style-dictionary",
   "version": "1.0.1",
   "description": "My style dictionary for personal projects",
-  "main": "build/css/_variables.css",
+  "main": "build/css/index.css",
   "files": [
     "build",
     "README.md"

@@ -8,8 +8,8 @@
       "buildPath": "build/css/",
       "files": [
         {
-          "destination": "_variables.css",
-          "format": "css/variables"
+          "destination": "index.css",
+          "format": "css/index"
         }
       ]
     }
