@@ -9,7 +9,7 @@
       "files": [
         {
           "destination": "index.css",
-          "format": "css/index"
+          "format": "css/variables"
         }
       ]
     }
