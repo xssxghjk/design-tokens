@@ -14,7 +14,7 @@
   "author": "Enes Findik",
   "repository": {
     "type": "git",
-    "directory": "https://github.com/xssxghjk/my-style-dictionary.git"
+    "url": "https://github.com/xssxghjk/my-style-dictionary.git"
   },
   "homepage": "https://github.com/xssxghjk/my-style-dictionary",
   "license": "MIT",
