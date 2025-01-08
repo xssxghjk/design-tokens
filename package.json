@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/xssxghjk/my-style-dictionary",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "style-dictionary": "^4.3.0"
   }
 }
