@@ -1,13 +1,14 @@
 {
   "name": "@xssxghjk/style-dictionary",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "My style dictionary for personal projects",
+  "type": "module",
   "files": [
     "build",
     "README.md"
   ],
   "scripts": {
-    "build": "style-dictionary build"
+    "build": "style-dictionary build --config ./config.js"
   },
   "keywords": [],
   "author": "Enes Findik",
@@ -17,7 +18,7 @@
   },
   "homepage": "https://github.com/xssxghjk/my-style-dictionary",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "style-dictionary": "^4.3.0"
   }
 }
