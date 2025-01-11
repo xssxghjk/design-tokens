@@ -1,7 +1,7 @@
 import StyleDictionary from 'style-dictionary';
-import { isColor } from './tailwindConfig/filter.js';
-import { cssVarsPlugin, preset, themeColors } from './tailwindConfig/format.js';
-import { rgbChannels } from './tailwindConfig/transform.js';
+import {isColor} from './tailwindConfig/filter.js';
+import {cssVarsPlugin, preset, themeColors} from './tailwindConfig/format.js';
+import {rgbChannels} from './tailwindConfig/transform.js';
 
 StyleDictionary.registerTransform({
   name: 'color/rgb-channels',
@@ -51,5 +51,25 @@ export default {
         },
       ],
     },
+    css: {
+      transformGroup: 'css',
+      buildPath: 'build/css/',
+      files: [
+        {
+          destination: 'variables.css',
+          format: 'css/variables'
+        }
+      ]
+    },
+    rn: {
+      transformGroup: 'react-native',
+      buildPath: 'build/rn/',
+      files: [
+        {
+          destination: 'variables.js',
+          format: 'javascript/es6'
+        }
+      ]
+    }
   },
 };
