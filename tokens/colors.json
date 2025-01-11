@@ -2,21 +2,26 @@
   "color": {
     "background": {
       "page": {
-        "$value": "#1E293B"
+        "value": "#1E293B",
+        "group": "color"
       },
       "card": {
-        "$value": "#CBD5E1"
+        "value": "#CBD5E1",
+        "group": "color"
       }
     },
     "text": {
       "primary": {
-        "$value": "#CBD5E1"
+        "value": "#CBD5E1",
+        "group": "color"
       },
       "secondary": {
-        "$value": "#94A3B8"
+        "value": "#94A3B8",
+        "group": "color"
       },
       "highlight": {
-        "$value": "#D946EF"
+        "value": "#D946EF",
+        "group": "color"
       }
     }
   }
